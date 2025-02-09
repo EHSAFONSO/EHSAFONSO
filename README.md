@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Eduardo H. S. Afonso
 
-<!--
-**EHSAFONSO/EHSAFONSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Desenvolvedor Full Stack | Analista de Sistemas**  
+💻 **Java | Spring Boot | React | SQL | ADVPL | Protheus ERP**  
+🔬 **Entusiasta de Tecnologia, Automação e Inteligência Artificial**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Sobre Mim
+Atualmente trabalho como **Analista de Sistemas na Fazu Uberaba**, onde atuo na otimização de processos e segurança de dados, utilizando SQL e ERP. Tenho experiência em **desenvolvimento back-end e integrações de sistemas** e sou apaixonado por explorar **novas tecnologias** para criar soluções eficientes.
+
+Além disso, sou educador e mentor na área de **robótica, programação e eletrônica**, utilizando **Arduino e C** para ensinar conceitos de automação.
+
+---
+
+### 🛠️ Habilidades Técnicas
+- **Back-end:** Java, Spring Boot, APIs REST, Node.js  
+- **Front-end:** React, JavaScript, TypeScript  
+- **Banco de Dados:** SQL, PostgreSQL, MySQL, Oracle  
+- **ERP & ADVPL:** Protheus, desenvolvimento e customização  
+- **DevOps & Cloud:** Docker, AWS, CI/CD  
+- **Outras Tecnologias:** Arduino, C, Python, Integração de Sistemas  
+
+---
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EHSAFONSO&show_icons=true&theme=dark)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EHSAFONSO&layout=compact&theme=dark)
+
+---
+
+### 📫 Contato
+📧 **E-mail:** [seuemail@email.com](mailto:ehs.afonso@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/ehsafonso/)  
+🌐 **Portfólio:**
+
+⚡ **"A tecnologia move o mundo, e eu movo a tecnologia!"** 🚀  
