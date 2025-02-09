@@ -30,8 +30,8 @@ Além disso, sou educador e mentor na área de **robótica, programação e elet
 ---
 
 ### 📫 Contato
-📧 **E-mail:** [seuemail@email.com](mailto:ehs.afonso@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/seuperfil](https://linkedin.com/in/ehsafonso/)  
+📧 **E-mail:** [ehs.afonso@gmail.com](mailto:ehs.afonso@email.com)  
+💼 **LinkedIn:** [linkedin.com/in/ehsafonso](https://linkedin.com/in/ehsafonso/)  
 🌐 **Portfólio:**
 
 ⚡ **"A tecnologia move o mundo, e eu movo a tecnologia!"** 🚀  
