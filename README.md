@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Eduardo Afonso 👋</h1>
 
 <p align="center">
-  Desenvolvedor e Analista de Sistemas · DevOps · Testes e QA
+  Desenvolvedor Back-end e Analista de Sistemas · DevOps · Testes e QA · Interesse em Cibersegurança
 </p>
 
 <p align="center">
@@ -14,43 +14,53 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou desenvolvedor e analista de sistemas. Gosto de entender o problema de ponta a ponta, do levantamento de requisitos até colocar o sistema no ar e garantir que ele continue funcionando.
+Sou desenvolvedor back-end e analista de sistemas. Gosto de entender o problema de ponta a ponta, do levantamento de requisitos até colocar o sistema no ar e garantir que ele continue funcionando.
 
 - 🔭 Atualmente colaboro em um **projeto open source de aplicação de notícias**, como responsável por **DevOps, testes e QA**
 - 🌐 Estou montando minha própria infraestrutura de hospedagem com **GitHub, Cloudflare e VPS**
+- 🔐 Tenho interesse em **cibersegurança**
 - 🌱 Sigo estudando os fundamentos: **C, estruturas de dados** (pilhas, filas) e algoritmos
 - 💼 Também tenho experiência na área de compras, o que me ajuda a enxergar os sistemas do ponto de vista de quem usa no dia a dia
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Stack principal
 
 <p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
 
-<!-- Adicione aqui outras linguagens e ferramentas que você usa, no mesmo formato. -->
+**DevOps e infraestrutura**
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+</p>
 
 ## 🚀 Projetos em destaque
 
-| Projeto | Descrição | Meu papel |
+| Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [App de Notícias](https://github.com/SEU-USUARIO/NOME-DO-REPO) | Aplicação open source de notícias | DevOps, testes e QA |
-| [eduardoafonso.com.br](https://eduardoafonso.com.br) | Meu site pessoal | Desenvolvimento e infraestrutura |
-| [Estruturas de Dados em C](https://github.com/SEU-USUARIO/NOME-DO-REPO) | Exercícios com pilhas, filas e conversores numéricos | Estudos |
+| [laravel-app-newsapi](https://github.com/EHSAFONSO/laravel-app-newsapi) | App de busca de notícias em tempo real integrado à NewsAPI | Laravel, PHP, MySQL, Bootstrap |
+| [eduardoafonso.com.br](https://eduardoafonso.com.br) | Meu site pessoal | GitHub, Cloudflare, VPS |
 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EHSAFONSO&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHSAFONSO&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas">
 </p>
 
 ---
 
 <p align="center">
-  💬 Fique à vontade para me chamar se quiser trocar ideias sobre DevOps, testes ou projetos open source!
+  💬 Fique à vontade para me chamar se quiser trocar ideias sobre back-end, DevOps, testes ou projetos open source!
 </p>
