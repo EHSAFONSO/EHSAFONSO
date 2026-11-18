@@ -1,52 +1,56 @@
-# 👨‍💻 Eduardo Afonso
+<h1 align="center">Olá, eu sou o Eduardo Afonso 👋</h1>
 
-🚀 **Desenvolvedor Back-End | Analista de Sistemas | Entusiasta de Cibersegurança**  
-Transformo ideias em sistemas robustos, escaláveis e seguros.  
-Experiência sólida com **Java, Spring Boot, SQL, ERP** e **Integração de Sistemas**.
-
----
-
-## 🧩 Sobre Mim
-- 🎯 Foco em **arquiteturas backend escaláveis** e **segurança de dados**.  
-- 🔍 Capacidade analítica para otimização de processos e resolução de problemas complexos.  
-- 🛡️ Interesse crescente em **cibersegurança ofensiva (Pentest, OPSEC)**.  
-- 🧠 Apaixonado por tecnologia, programação, engenharia e física.  
-- 📈 Perfil **visionário, competitivo e austero**.
-
----
-
-## 🛠️ Stack Principal
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🔥 Projetos em Destaque
-
-| Projeto | Descrição | Stack | Link |
-|---------|-----------|-------|------|
-| **Laravel App - NewsAPI** | Aplicação Laravel integrada à NewsAPI para busca de notícias em tempo real. | Laravel, PHP, MySQL, Bootstrap | 🔗 [Repositório](https://github.com/EHSAFONSO/laravel-app-newsapi) |
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EHSAFONSO&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHSAFONSO&layout=compact&theme=radical" height="180"/>
+  Desenvolvedor e Analista de Sistemas · DevOps · Testes e QA
+</p>
+
+<p align="center">
+  <a href="https://eduardoafonso.com.br"><img src="https://img.shields.io/badge/Site-eduardoafonso.com.br-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site"></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Afonso-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:SEU-EMAIL"><img src="https://img.shields.io/badge/E--mail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
 ---
 
-## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-afonso-dev/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ehs.afonso@gmail.com)
+## 🧑‍💻 Sobre mim
+
+Sou desenvolvedor e analista de sistemas. Gosto de entender o problema de ponta a ponta, do levantamento de requisitos até colocar o sistema no ar e garantir que ele continue funcionando.
+
+- 🔭 Atualmente colaboro em um **projeto open source de aplicação de notícias**, como responsável por **DevOps, testes e QA**
+- 🌐 Estou montando minha própria infraestrutura de hospedagem com **GitHub, Cloudflare e VPS**
+- 🌱 Sigo estudando os fundamentos: **C, estruturas de dados** (pilhas, filas) e algoritmos
+- 💼 Também tenho experiência na área de compras, o que me ajuda a enxergar os sistemas do ponto de vista de quem usa no dia a dia
+
+## 🛠️ Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+<!-- Adicione aqui outras linguagens e ferramentas que você usa, no mesmo formato. -->
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Meu papel |
+|---|---|---|
+| [App de Notícias](https://github.com/SEU-USUARIO/NOME-DO-REPO) | Aplicação open source de notícias | DevOps, testes e QA |
+| [eduardoafonso.com.br](https://eduardoafonso.com.br) | Meu site pessoal | Desenvolvimento e infraestrutura |
+| [Estruturas de Dados em C](https://github.com/SEU-USUARIO/NOME-DO-REPO) | Exercícios com pilhas, filas e conversores numéricos | Estudos |
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais usadas">
+</p>
 
 ---
 
-💡 *“Código limpo, arquitetura sólida e segurança não são opcionais — são padrão.”*
+<p align="center">
+  💬 Fique à vontade para me chamar se quiser trocar ideias sobre DevOps, testes ou projetos open source!
+</p>
